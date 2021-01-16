@@ -1,2 +1,3 @@
 # hello-world-
-This is first git 
+This is my first git
+Edited version to be merged.
