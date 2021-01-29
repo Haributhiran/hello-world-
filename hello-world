@@ -1,1 +1,7 @@
 This is my first git --> comment 1
+git status -- 
+git init --
+git log --
+git commit -m "<comment/message>"--
+git add <filename> --
+git add * --
